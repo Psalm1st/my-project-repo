@@ -1,3 +1,7 @@
+<h1>HELLO WORLD! WELCOME TO MY WORLD!</h1>
+
+![Image Description](img/sticker.jpg)
+
 
 
 This repository contains the files and code for a blog website created by Psalm1st. The website features blog posts on various topics related to the owner's studies, SWOT analysis, programming experience at the time, and information about the Oracle company. This project is intended for education and teaching purposes.
@@ -8,6 +12,7 @@ This repository contains the files and code for a blog website created by Psalm1
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Setup](#setup)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
