@@ -1,4 +1,4 @@
-<h1>HELLO WORLD! WELCOME TO MY WORLD!</h1>
+<h1>HELLO, WELCOME TO MY WORLD!</h1>
 
 ![Image Description](img/sticker.jpg)
 
