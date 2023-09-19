@@ -58,6 +58,9 @@ The file structure of the project is organized as follows:
 
 Feel free to explore the blog posts and interact with the website's features. You can use this project for educational purposes, learn from the code structure, and experiment with web development concepts.
 
+
+PS: Insta@ simple_smilez
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request. Your contributions can help enhance the blog website and make it even better.
